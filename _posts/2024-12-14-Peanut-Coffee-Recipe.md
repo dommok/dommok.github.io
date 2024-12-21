@@ -2,7 +2,7 @@
 layout: post
 title: Peanut Coffee Latte
 description: >-
-    땅콩 커피 라뗴를 만들어보았는데
+    Mede Peanut Butter Latte
 author: Domm
 date: 2024-12-14 16:01:32 +09:00
 categories: [Coffee, Recipe]
