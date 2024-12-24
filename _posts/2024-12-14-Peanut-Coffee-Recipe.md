@@ -14,9 +14,11 @@ tags: [coffee]
 고소하고 너무 달지 않은 라떼입니다. 원래 땅콩버터를 즐겨먹는 사람 입맛에는 잘 맞을 것이라 생각한다. 음료 자체에 들어간 재료가 재료인지라, 가벼운 느낌보다는 약간 묵직한 맛이다. 때문에 서서히 추워지기 시작하는 가을, 혹은 겨울에 먹기 좋아요.   
 
 ![Coffee-Peanut-Lattee](./assets/img/Blog_image/HandMade_Coffee/2024-12-14-image1/Peanut_Coffee_Latte.jpg){: width="500px" height="150px" class="left"}   
+
 <br>
 
 _출처: 커피척스 coffictures_  
+
 <br> 
 
   
