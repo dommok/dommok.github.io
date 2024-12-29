@@ -50,7 +50,7 @@ _출처: 커피척스 coffictures_
 5. 에스프레소를 바로 위에 내려줍시다. 
 
 완성된 비주얼은 이렇습니다!   
-![Coffee-Peanut-Latte-HandMade](./assets/img/Blog_image/HandMade_Coffee/2024-12-14-image1/HMPCL1.jpg){: width="70%" height="240px" class="left"}  
+![Coffee-Peanut-Latte-HandMade](./assets/img/Blog_image/HandMade_Coffee/2024-12-14-image1/HMPCL1.jpg){: width="30%" height="80px" class="left"}  
 
 ## 주의할점?   
 1. 가장 중요한 것은 표시되어 있듯이, 두 번에 나누어 생크림을 부음으로써 **농도를 조절**하는 것입니다. 
@@ -65,7 +65,7 @@ _출처: 커피척스 coffictures_
 3. 표면에 물을 살짝 묻히고 설탕을 바르면 잘 발려집니다.   
 
 설탕 바르는 방법은 아래의 사진을 참고해주세요.   
-![Coffee-Peanut-Latte-HandMade](./assets/img/Blog_image/HandMade_Coffee/2024-12-14-image1/HMPCL2.jpg){: width="70%" height="240px" class="left"}  
+![Coffee-Peanut-Latte-HandMade](./assets/img/Blog_image/HandMade_Coffee/2024-12-14-image1/HMPCL2.jpg){: width="30%" height="80px" class="left"}  
 
 컵 주변에 누텔라 소스나 땅콩소스를 바른 후, 부셔놓은 견과류를 동일한 방법으로 묻혀도 좋습니다!
 
