@@ -1,9 +1,9 @@
 ## Template › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#setting-author-url
 # -------------------------------------
-  author_id: Dommok
-  name: Dong Uk Kim
-  twitter: Dommok
-  #url: https://dommok.github.io/posts/Translation/
+  author_id: 
+    name: Dong Uk Kim
+    twitter: Dommok
+    url: https://dommok.github.io/posts/Translation/
 # -------------------------------------
 
 cotes:
