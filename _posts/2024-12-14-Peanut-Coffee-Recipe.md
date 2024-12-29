@@ -13,15 +13,9 @@ tags: [coffee]
 
 고소하고 너무 달지 않은 라떼입니다. 원래 땅콩버터를 즐겨먹는 사람 입맛에는 잘 맞을 것이라 생각합니다. 음료 자체에 들어간 재료가 재료인지라, 가벼운 느낌보다는 약간 묵직한 맛입니다. 때문에 서서히 추워지기 시작하는 가을, 혹은 겨울에 먹기 좋아요.   
 
-![Coffee-Peanut-Lattee](./assets/img/Blog_image/HandMade_Coffee/2024-12-14-image1/Peanut_Coffee_Latte.jpg){: width="500px" height="150px" class="left"}   
-
-<br>
+![Coffee-Peanut-Lattee](./assets/img/Blog_image/HandMade_Coffee/2024-12-14-image1/Peanut_Coffee_Latte.jpg){: width="70%" height="150px" class="left"}   
 
 _출처: 커피척스 coffictures_  
-
-<br> 
-
-  
 
 ## 땅콩크림 만들기 
 땅콩크림 레시피는 다음과 같습니다.
@@ -56,10 +50,10 @@ _출처: 커피척스 coffictures_
 5. 에스프레소를 바로 위에 내려줍시다. 
 
 완성된 비주얼은 이렇습니다!   
-![Coffee-Peanut-Latte-HandMade](./assets/img/Blog_image/HandMade_Coffee/2024-12-14-image1/HMPCL1.jpg){: width="500px" height="150px" class="left"}  
+![Coffee-Peanut-Latte-HandMade](./assets/img/Blog_image/HandMade_Coffee/2024-12-14-image1/HMPCL1.jpg){: width="70%" height="240px" class="left"}  
 
 ## 주의할점?   
-1. 가장 중요한 것은 표시되어 있듯이, 두 번에 나누어 생크림을 부음으로써 **농도를 	조절**하는 것입니다. 
+1. 가장 중요한 것은 표시되어 있듯이, 두 번에 나누어 생크림을 부음으로써 **농도를 조절**하는 것입니다. 
 	너무 많이 휘핑 해버리면 우유와 크림이 조화롭게 섞이지 않고 불쾌하게 입에 남아요. 
 	뿐만 아니라 에스프레소를 추출할 때도, 커피가 크림 위에 동동 뜨게 됩니다. 
 	보기에도 좋지 않고, 흘러 넘치기도 쉽습니다.
@@ -71,7 +65,7 @@ _출처: 커피척스 coffictures_
 3. 표면에 물을 살짝 묻히고 설탕을 바르면 잘 발려집니다.   
 
 설탕 바르는 방법은 아래의 사진을 참고해주세요.   
-![Coffee-Peanut-Latte-HandMade](./assets/img/Blog_image/HandMade_Coffee/2024-12-14-image1/HMPCL2.jpg){: width="500px" height="150px" class="left"}  
+![Coffee-Peanut-Latte-HandMade](./assets/img/Blog_image/HandMade_Coffee/2024-12-14-image1/HMPCL2.jpg){: width="70%" height="240px" class="left"}  
 
 컵 주변에 누텔라 소스나 땅콩소스를 바른 후, 부셔놓은 견과류를 동일한 방법으로 묻혀도 좋습니다!
 
