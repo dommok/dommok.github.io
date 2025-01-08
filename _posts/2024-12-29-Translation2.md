@@ -5,7 +5,7 @@ description: >-
     패배 히로인이 너무 많아! 7권 번역(4)
 author: Domm
 date: 2024-12-29 22:02:32 +09:00
-categories: [Translation, 負けヒロインが多すぎる！]
+categories: [Translation, 負けヒロインが多すぎる！7巻]
 tags: [負けヒロインが多すぎる, LightNobel]
 ---
 
