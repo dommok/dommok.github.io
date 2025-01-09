@@ -2,7 +2,7 @@
 layout: post
 title: 負けヒロインが多すぎる！SSS翻訳 - 1巻ショートストーリー
 description: >-
-    패배 히로인이 너무 많아! SSS번역 - 1권권
+    패배 히로인이 너무 많아! SSS번역 - 1권
 author: Domm
 date: 2025-01-08 23:21:32 +09:00
 categories: [Translation, 負けヒロインが多すぎる！SSS]
