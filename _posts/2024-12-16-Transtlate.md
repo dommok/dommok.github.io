@@ -6,7 +6,7 @@ description: >-
 author: Domm
 date: 2024-12-16 14:56:32 +09:00
 categories: [Translation, 負けヒロインが多すぎる！7巻]
-tags: [make heroine ga oosugiru, lightNobel]
+tags: [make heroine ga oosugiru, lightNobel, two]
 ---
 
 ## 패배 히로인이 너무 많아! 7권 번역 (2)
