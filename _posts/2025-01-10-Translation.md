@@ -4,7 +4,7 @@ title: 負けヒロインが多すぎる！SSS翻訳 - 2巻ショートストー
 description: >-
     패배 히로인이 너무 많아! SSS번역 - 2권
 author: Domm
-date: 2025-01-09 11:38:32 +09:00
+date: 2025-01-10 11:38:32 +09:00
 categories: [Translation, Too many losing heroines SSS]
 tags: [make heroine ga oosugiru, lightNobel, sss, second]
 ---

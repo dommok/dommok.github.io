@@ -4,7 +4,7 @@ title: 負けヒロインが多すぎる！SSS翻訳 - 3巻ショートストー
 description: >-
     패배 히로인이 너무 많아! SSS번역 - 3권
 author: Domm
-date: 2025-02-12 17:07:32 +09:00
+date: 2025-02-11 17:07:32 +09:00
 categories: [Translation, Too many losing heroines SSS]
 tags: [lightNobel, sss, third]
 ---

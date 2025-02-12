@@ -4,7 +4,7 @@ title: 負けヒロインが多すぎる！7巻翻訳 (5)
 description: >-
     패배 히로인이 너무 많아! 7권 번역 (5)
 author: Domm
-date: 2025-01-03 22:18:32 +09:00
+date: 2025-01-04 22:18:32 +09:00
 categories: [Translation, Too many losing heroines 7]
 tags: [too many losing heroines, lightNobel]
 ---
