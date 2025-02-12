@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 負けヒロインが多すぎる！7巻翻訳(6)
+title: 負けヒロインが多すぎる！7巻翻訳 (6)
 description: >-
-    패배 히로인이 너무 많아! 7권 번역(6)
+    패배 히로인이 너무 많아! 7권 번역 (6)
 author: Domm
 date: 2025-01-06 22:18:32 +09:00
-categories: [Translation, 負けヒロインが多すぎる！7巻]
-tags: [make heroine ga oosugiru, lightNobel]
+categories: [Translation, Too many losing heroines 7]
+tags: [too many losing heroines, lightNobel]
 ---
 
 ## 패배 히로인이 너무 많아! 7권 번역 (6)   
