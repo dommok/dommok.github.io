@@ -6,10 +6,11 @@ description: >-
 author: Domm
 date: 2025-01-10 17:07:32 +09:00
 categories: [Translation, 負けヒロインが多すぎる！SSS]
-tags: [make heroine ga oosugiru, lightNobel, sss, third]
+tags: [lightNobel, sss, third]
 ---
 
 ## 패배 히로인이 너무 많아! SSS번역 - Short Story of Vol.3
+
 '패배 히로인이 너무 많아! SSS' 번역입니다. 3권에 진입했습니다.    
 야나미와 야키시오, 그리고 코마리 모두 '패배 히로인'이 되었습니다.   
 다만 이 패로인들과 누쿠미즈의 관계가 더 깊어지는건 이후의 일입니다.      
@@ -266,35 +267,7 @@ tags: [make heroine ga oosugiru, lightNobel, sss, third]
 
 소꿉친구를 시작한다니...... 뭐지?
 
-### **여름 요정은 장난꾸러기** - 멜론 북스 특전 SS
+### 후기
 
-#### 96p
-
-#### 96p
-
-#### 96p
-
-#### 96p
-
-### **여름 요정은 장난꾸러기** - 멜론 북스 특전 SS
-
-#### 96p
-
-#### 96p
-
-#### 96p
-
-#### 96p
-
-### **여름 요정은 장난꾸러기** - 멜론 북스 특전 SS
-
-#### 96p
-
-#### 96p
-
-#### 96p
-
-#### 96p
-
-### 후기ㅁ
+현재 모든 페이지가 특전 3으로 표시되는 버그가 생겼습니다...
 

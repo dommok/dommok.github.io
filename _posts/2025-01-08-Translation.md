@@ -10,6 +10,7 @@ tags: [make heroine ga oosugiru, lightNobel,sss, yanami anna, first]
 ---
 
 ## 패배 히로인이 너무 많아! SSS번역 - Short Story of Vol.1
+
 '패배 히로인이 너무 많아! SSS' 번역입니다. SSS는 Special Short Story의 약자로, 서점 특전 단편소설 및 원작의 배경이 된 토요하시의 한 동물원 관련 홍보 소설이 수록되어 있다고 합니다.   
 짤막한 에피소드 묶음이라고 보시면 되겠습니다.   
 야나미에 분량이 조금 치우쳤다고 합니다. 애초에 표지부터 야나미가 장식하고 있긴 합니다.   
