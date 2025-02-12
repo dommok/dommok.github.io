@@ -10,6 +10,7 @@ tags: [make heroine ga oosugiru, lightNobel]
 ---
 
 ## 패배 히로인이 너무 많아! 7권 번역 (4)   
+
 이어서 계속됩니다.
 
 ### **Intermission** 밤의 과자는 멈추지 않아
