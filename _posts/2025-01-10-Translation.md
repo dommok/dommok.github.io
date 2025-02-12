@@ -6,7 +6,7 @@ description: >-
 author: Domm
 date: 2025-01-10 17:07:32 +09:00
 categories: [Translation, 負けヒロインが多すぎる！SSS]
-tags: [make heroine ga oosugiru, lightNobel, sss, komari chika]
+tags: [make heroine ga oosugiru, lightNobel, sss, third]
 ---
 
 ## 패배 히로인이 너무 많아! SSS번역 - Short Story of Vol.3
