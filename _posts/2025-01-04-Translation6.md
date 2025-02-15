@@ -863,7 +863,7 @@ GW 연휴가 끝나고. 방과 후 부실에 모인 야나미, 회장, 시라타
 
 #### 281p
 
-![太った柳波と白玉理子は区別がつかない](./assets/img/Blog_image/Light_Nobel/負けヒロインが多すぎる！7巻 270p.jpg){: width="400px" height="700px" class="center"}
+![太った柳波と白玉理子は区別がつかない](./assets/img/Blog_image/Light_Nobel/負けヒロインが多すぎる！7巻 281p.jpg){: width="400px" height="700px" class="center"}
 
 #### 282p
 
