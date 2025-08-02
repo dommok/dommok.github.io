@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 
 title: 負けヒロインが多すぎる！7巻翻訳 (6)
 description: >-
     패배 히로인이 너무 많아! 7권 번역 (6)
