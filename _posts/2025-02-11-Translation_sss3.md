@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: 負けヒロインが多すぎる！SSS翻訳 - 3巻ショートストーリー
 description: >-
     패배 히로인이 너무 많아! SSS번역 - 3권
